@@ -1,0 +1,32 @@
+h1{
+    text-decoration: underline;
+    padding-bottom: 40px;
+    border-bottom: 1px solid gray;
+}
+.p1{
+    color: blue;
+}
+.p1 a , .p2 a{
+    color: orange;
+    display: inline-block;
+    margin: 0 5px;
+}
+.p3 a{
+    background-color: yellow;
+}
+#first-list .out{
+margin-bottom:15px ;
+}
+.a-red{
+    color: red;
+}
+.ul-blue{
+    color: blue;
+}
+.no-list-style{
+    list-style-type: none;
+}
+.bold{
+    font-weight: bold;
+}
+

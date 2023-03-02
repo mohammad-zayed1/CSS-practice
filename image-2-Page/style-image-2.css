@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+main {
+    background-color: bisque;
+    padding: 10px 10px 80px 10px;
+    overflow: hidden;
+}
+
+.section-1 {
+    overflow: hidden;
+}
+
+.section-1 p {
+    width: calc((100% - 40px)/3);
+    float: left;
+    background-color: aqua;
+    margin-right:10px;
+    height: 70px;
+    overflow: hidden;
+}
+
+.section-2{
+    height: 100px;
+    overflow:scroll;
+    border-top:2px solid black ;
+    border-bottom:2px solid black ;
+}
+.section-3 p{
+width: calc((100% - 40px)/3);
+    float: left;
+    background-color: aqua;
+    margin-right: 10px;
+    height: 70px;
+    overflow: hidden;
+}
