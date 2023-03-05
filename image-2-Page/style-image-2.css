@@ -3,9 +3,12 @@
 }
 
 main {
+    width: 900px;
+    margin: 100px auto;
     background-color: bisque;
-    padding: 10px 10px 80px 10px;
+    padding-left:10px ;
     overflow: hidden;
+    border-right: 3px solid black;
 }
 
 .section-1 {
