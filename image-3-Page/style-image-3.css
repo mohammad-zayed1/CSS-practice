@@ -14,12 +14,15 @@ h1{
 .p3 a{
     background-color: yellow;
 }
+#first-list li a{
+color: red;
+}
 #first-list .out{
 margin-bottom:15px ;
 }
-.a-red{
+/* .a-red{
     color: red;
-}
+} */
 .ul-blue{
     color: blue;
 }
